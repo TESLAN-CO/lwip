@@ -31,8 +31,6 @@
  *
  * This file is part of the lwIP TCP/IP stack.
  *
- * Author: instagram: hr_faruk
- *
  */
 
 #ifndef LWIP_HDR_IP_H
