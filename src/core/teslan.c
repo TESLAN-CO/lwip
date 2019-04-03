@@ -49,8 +49,6 @@
  *
  * This file is part of the lwIP TCP/IP stack.
  *
- * Author: hr_faruk
- *
  */
  
 #include "lwip/opt.h"
